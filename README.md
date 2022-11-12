@@ -2,8 +2,8 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/caiobarbosadev/to-do-list-react">
-    <img src="https://raw.githubusercontent.com/caiobarbosadev/to-do-list-react/master/Logo.svg" alt="Logo" width="100" height="100">
+  <a href="https://github.com/caiobarbosadev/to-do-list-reactjs">
+    <img src="https://raw.githubusercontent.com/caiobarbosadev/to-do-list-reactjs/master/Logo.svg" alt="Logo" width="100" height="100">
   </a>
 
 <h3 align="center">To Do List React 🚀</h3>
@@ -11,7 +11,7 @@
   <p align="center">
     Aplicação desenvolvida com o objetivo de praticar os fundamentos do React JS na Trilha Ignite da Rocketseat.
     <br />
-    <a href="https://github.com/caiobarbosadev/to-do-list-react"><strong>Explore o repositório »</strong></a>
+    <a href="https://github.com/caiobarbosadev/to-do-list-reactjs"><strong>Explore o repositório »</strong></a>
     <br />
     <br />
   </p>
@@ -19,7 +19,7 @@
 
 ## Sobre
 
-![To Do List React](https://github.com/caiobarbosadev/to-do-list-react/blob/master/Capa.png)
+![To Do List React](https://github.com/caiobarbosadev/to-do-list-reactjs/blob/master/Capa.png)
 
 Funcionalidades:
 Criar uma nova tarefa, remover tarefas, contabilizar a quantidade de tarefas criadas e contabilizar a quantidade de tarefas concluídas.
