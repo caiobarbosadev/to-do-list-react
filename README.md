@@ -9,7 +9,7 @@
 <h3 align="center">To Do List React 🚀</h3>
 
   <p align="center">
-    Aplicação desenvolvida com o objetivo de conhecer os fundamentos do React JS na Trilha Ignite da Rocketseat.
+    Aplicação desenvolvida com o objetivo de praticar os fundamentos do React JS na Trilha Ignite da Rocketseat.
     <br />
     <a href="https://github.com/caiobarbosadev/to-do-list-react"><strong>Explore o repositório »</strong></a>
     <br />
