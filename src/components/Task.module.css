@@ -1,0 +1,47 @@
+.singleTask {
+    width: 100%;
+    min-height: 4.5rem;
+    display: flex;
+    gap: 0.75rem;
+    align-items: flex-start;
+    border: 1px solid var(--gray-400);
+    padding: 1rem;
+    border-radius: 8px;
+    background-color: var(--gray-500);
+    color: var(--gray-100);
+    border-bottom: 4px solid var(--gray-400);
+}
+
+.singleTask p {
+    flex: 1;
+}
+
+.completedTask {
+    text-decoration: line-through;
+}
+
+.singleTask:first-of-type {
+    border-top: none;
+}
+
+.deleteTaskButton {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    color: var(--gray-300);
+    padding: 0.375rem;
+    transition: 0.2s;
+}
+
+.deleteTaskButton:hover {
+    background-color: var(--gray-400);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    color: var(--danger);
+}
+
+.checkbox {
+    background-color: red;
+}
